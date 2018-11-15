@@ -1,7 +1,6 @@
 #include <cstdlib>
 #include <iostream>
 using namespace std;
-// cl /EHsc /DllMain run.cpp
 int main(){
 	int var = 1;
 	int cooseing;
